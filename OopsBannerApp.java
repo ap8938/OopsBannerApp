@@ -53,8 +53,7 @@ public class OopsBannerApp {
                 "          "
             )
         };
-
-        // Enhanced for-each loop
+        
         for (String line : lines) {
             System.out.println(line);
         }
