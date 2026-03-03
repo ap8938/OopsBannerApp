@@ -40,10 +40,10 @@ public class OopsBannerApp {
             ),
 
             String.join("   ",
-                "  *****  ",   // O
-                "  *****  ",   // O
-                " **      ",   // P
-                "  *****  "    // S
+                "  *****  ",   
+                "  *****  ",   
+                " **      ",   
+                "  *****  "    
             ),
 
             String.join("   ",
