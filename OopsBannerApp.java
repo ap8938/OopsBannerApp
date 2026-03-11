@@ -2,8 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class OopsBannerApp {
-
-    // Static method to build the pattern map
+	
     public static Map<Character, String[]> buildPatternMap() {
 
         Map<Character, String[]> map = new HashMap<>();
@@ -40,8 +39,7 @@ public class OopsBannerApp {
 
         return map;
     }
-
-    // Static method to display banner
+	
     public static void displayBanner(String word, Map<Character, String[]> map) {
 
         for (int i = 0; i < 7; i++) {
